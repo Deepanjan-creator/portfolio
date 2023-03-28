@@ -126,6 +126,15 @@ header .header-right .hamburger div {
     header .header-right .login-signup {
         display: none;
     }
+
+    .main {
+        margin-top: -250px;
+        
+    }
+    .main h1,p{
+        font-size: 30px;
+    }
+    
 }
 
 
@@ -210,7 +219,7 @@ header .header-right .hamburger div {
     color: aqua;
    font-size: 30px;
    padding: 5px;
-   margin-left: 15px;
+   margin-left: 45px;
    text-align: left;
    margin-top: 350px;
 }
@@ -219,7 +228,7 @@ color: green;
 }
 .main img{
 margin-left: 10%;
-width: 900px;
-height: 900px;
+width: 47%;
+height: 70%;
 z-index: -2000;
 }
