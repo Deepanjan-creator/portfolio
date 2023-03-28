@@ -54,7 +54,7 @@ nav ul li {
 nav ul li a:hover,
 nav ul li a.active {
     color: #fff;
-    background-color: red;
+    background-color: rgb(101, 67, 226);
 
 }
 nav .login-signup {
@@ -199,4 +199,27 @@ header .header-right .hamburger div {
 		transform: translateY(-800px) scale(2);
 		opacity: 0;
 	}
+}
+
+.main {
+   display: flex;
+   
+   
+}
+.header-text {
+    color: aqua;
+   font-size: 30px;
+   padding: 5px;
+   margin-left: 15px;
+   text-align: left;
+   margin-top: 350px;
+}
+.main b{
+color: green;
+}
+.main img{
+margin-left: 10%;
+width: 900px;
+height: 900px;
+z-index: -2000;
 }
